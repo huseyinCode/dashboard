@@ -4,5 +4,5 @@ Kullandığım kodlar
 -Ui 
 -Sekmeler
 -Firebase Database kodları
--animsyonlar
+-animasyonlar
 -layout
